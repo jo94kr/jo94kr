@@ -28,9 +28,9 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/kibana-%23005571?style=for-the-badge&logo=kibana&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-        <img src="https://img.shields.io/badge/redis-%23FF0000?style=for-the-badge">
         <br>
         <img src="https://img.shields.io/badge/rabbitmq-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+        <img src="https://img.shields.io/badge/redis-%23FF0000?style=for-the-badge">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
         <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
@@ -46,8 +46,7 @@ Here are some ideas to get you started:
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <div style="text-align: left;"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=jo94kr&custom_title=Jo94kr's Github Stat&bg_color=180,00000000,&title_color=000000&text_color=000000"/>  
-    </div> 
+        <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=jo94kr&bg_color=60,2d7be1,77258d&title_color=ffffff&text_color=ffffff"/>  </div>
 </div>
+    
     
