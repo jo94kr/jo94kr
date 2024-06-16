@@ -23,6 +23,9 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/JPA-%236DB33F?style=for-the-badge">
         <br>
         <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white">
+        <img src="https://img.shields.io/badge/logstash-%23005571?style=for-the-badge&logo=logstash&logoColor=white">
+        <img src="https://img.shields.io/badge/beats-%23005571?style=for-the-badge&logo=beats&logoColor=white">
+        <img src="https://img.shields.io/badge/kibana-%23005571?style=for-the-badge&logo=kibana&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
         <img src="https://img.shields.io/badge/redis-%23FF0000?style=for-the-badge">
