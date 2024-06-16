@@ -22,7 +22,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
         <img src="https://img.shields.io/badge/JPA-%236DB33F?style=for-the-badge">
         <br>
-        <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white">
+        <img src="https://img.shields.io/badge/elasticsearch-%23005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
         <img src="https://img.shields.io/badge/logstash-%23005571?style=for-the-badge&logo=logstash&logoColor=white">
         <img src="https://img.shields.io/badge/beats-%23005571?style=for-the-badge&logo=beats&logoColor=white">
         <img src="https://img.shields.io/badge/kibana-%23005571?style=for-the-badge&logo=kibana&logoColor=white">
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <div style="text-align: left;"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=asd&custom_title=Jo94kr's Github Stat&bg_color=180,00000000,&title_color=000000&text_color=000000"/>  
+        <img src="https://github-readme-stats.vercel.app/api?username=jo94kr&custom_title=Jo94kr's Github Stat&bg_color=180,00000000,&title_color=000000&text_color=000000"/>  
     </div> 
 </div>
     
