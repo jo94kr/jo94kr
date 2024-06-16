@@ -25,19 +25,20 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+        <img src="https://img.shields.io/badge/redis-%23FF0000?style=for-the-badge">
         <br>
+        <img src="https://img.shields.io/badge/rabbitmq-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
         <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
     </div>
 </div>
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br>
     <div style="text-align: left;"> 
-
-        
-    </div>  
-    <br>
+        <a href=https://jo94kr.github.io/> <img src="https://img.shields.io/badge/gitbook-%23000000?style=for-the-badge&logo=GitBook"> </a>
+        <a href=mailto:wls94kr@gamil.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wls94kr@gamil.com"> </a>
+    </div>  <br>
     <div style="text-align: left;">  </div>
 </div>
 <div style="text-align: left;">
