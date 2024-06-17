@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br>
     <div style="text-align: left;"> 
-        <a href=https://jo94kr.github.io/> <img src="https://img.shields.io/badge/gitbook-%23000000?style=for-the-badge&logo=GitBook"> </a>
+        <a href=https://jo94kr.github.io/> <img src="https://img.shields.io/badge/gitBlog-%23000000?style=for-the-badge&logo=GitBook"> </a>
         <a href=mailto:wls94kr@gamil.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wls94kr@gamil.com"> </a>
     </div>  <br>
     <div style="text-align: left;">  </div>
