@@ -18,15 +18,13 @@ Here are some ideas to get you started:
     <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg"/>
 </a><br>
 
-
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jo94kr&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/jo94kr"
+    src="https://render.gitanimals.org/lines/jo94kr?pet-id=649638232054813887"
     width="600"
     height="120"
   />
 </a>
-  
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br>
